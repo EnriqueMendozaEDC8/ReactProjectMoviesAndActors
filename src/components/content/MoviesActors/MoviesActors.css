@@ -1,0 +1,10 @@
+.actorPhoto{
+    max-height: 300px;
+}
+.actorContainer h3,.actorContainer h5{
+    color: white !important;
+}
+.actorContainer a{
+    text-decoration: none;
+    color: rgb(104, 104, 104) !important;
+}

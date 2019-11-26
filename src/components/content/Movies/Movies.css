@@ -1,0 +1,19 @@
+.movies-container{
+    background-color: #454b55;
+    border-radius: 10px;
+    padding: 1vw;
+    margin: 1vw;
+    color: ivory;
+}
+.movies-container div img{
+    max-height: 200px;
+}
+
+.button-movies,.button-movies:hover {
+    background: none;
+    border: none;
+    width: 100%;
+}
+.poster-movie{
+    text-align: center !important;
+}

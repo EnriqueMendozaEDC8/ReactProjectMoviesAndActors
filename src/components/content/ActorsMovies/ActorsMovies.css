@@ -1,0 +1,10 @@
+.imagenMovieActors img{
+    width: 100%;
+}
+.imagenMovieActors h2{
+    height: 70px;
+}
+.imagenMovieActors a,.imagenMovieActors a:hover{
+    color: white;
+    text-decoration: none;
+}

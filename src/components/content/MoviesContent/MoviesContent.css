@@ -1,0 +1,10 @@
+.moviescontent{
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    color: white !important;
+}
+
+
+.moviescontent div div img{
+    max-height: 300px;
+}

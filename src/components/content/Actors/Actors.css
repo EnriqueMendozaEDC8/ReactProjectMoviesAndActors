@@ -1,0 +1,11 @@
+.actorInfoContainer h2,.actorInfoContainer h4{
+    color: white;
+    margin: 10px;
+}
+.actorInfoContainer img{
+    width: 100%;
+    max-width: 200px;
+}
+.actorInfoContainer a{
+    text-decoration: none;
+}
